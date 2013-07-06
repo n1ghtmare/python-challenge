@@ -1,5 +1,3 @@
-# -> use PIL to decypher the pixel colors at the grey bar
-import string
 import Image
 
 def read_image_colors(file_name):
